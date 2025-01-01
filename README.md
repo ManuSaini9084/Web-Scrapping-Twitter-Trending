@@ -1,4 +1,4 @@
-# Twitter Trends Scraper
+                                                                        # Web Scrapping of Twitter Trending using Selenium
 
 ## Project Overview
 A web application that scrapes and displays the top 5 trending topics on Twitter using Selenium, Flask, and MongoDB.
