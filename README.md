@@ -18,6 +18,12 @@ A web application that scrapes and displays the top 5 trending topics on Twitter
 
 ![Screenshot 2025-01-01 223002](https://github.com/user-attachments/assets/e3772995-f653-40f6-b426-df8bf3e7e0fe)
 
+
+## Demo Video 
+
+https://youtu.be/7Lnnc9IVIMg?si=USoFukdCd7EfO5zy
+
+
 ## Prerequisites
 - Python 3.8+
 - Chrome WebDriver
